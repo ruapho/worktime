@@ -1,4 +1,4 @@
-module unitrade.com/worktime
+module github.com/ruapho/worktime
 
 go 1.21.3
 
